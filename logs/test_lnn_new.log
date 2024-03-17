@@ -1,0 +1,199 @@
+('Normal_Videos_897_x264', 'Arrest039_x264') | accuracy value is 0.8132479655337482 | roc-auc value is 0.3921142732773736
+('Normal_Videos_936_x264', 'Arrest001_x264') | accuracy value is 0.9963131026659103 | roc-auc value is 0.9995513662468772
+('Normal_Videos_939_x264', 'Arrest024_x264') | accuracy value is 0.7028429602888087 | roc-auc value is 0.9132190938473662
+('Normal_Videos_940_x264', 'Arrest030_x264') | accuracy value is 0.9104791759964174 | roc-auc value is 0.9432441255797104
+('Normal_Videos_048_x264', 'Arrest007_x264') | accuracy value is 0.8684045881126173 | roc-auc value is 0.8578200666493117
+('Normal_Videos_034_x264', 'Explosion027_x264') | accuracy value is 0.898854961832061 | roc-auc value is 0.8783220427305889
+('Normal_Videos_725_x264', 'Explosion017_x264') | accuracy value is 0.8265107212475633 | roc-auc value is 0.9398839328979856
+('Normal_Videos_875_x264', 'Explosion035_x264') | accuracy value is 0.5800036825630639 | roc-auc value is 0.7610619879999257
+('Normal_Videos_014_x264', 'Explosion036_x264') | accuracy value is 0.3498828353837141 | roc-auc value is 0.6957323482188955
+('Normal_Videos_778_x264', 'Explosion002_x264') | accuracy value is 0.9346095526914329 | roc-auc value is 0.9415991173356348
+('Normal_Videos_352_x264', 'Explosion039_x264') | accuracy value is 0.8926897844423618 | roc-auc value is 0.9186706970734858
+('Normal_Videos_876_x264', 'Explosion008_x264') | accuracy value is 0.8519047619047619 | roc-auc value is 0.93912869766684
+('Normal_Videos_597_x264', 'Explosion020_x264') | accuracy value is 0.7481544576944917 | roc-auc value is 0.9042864442952616
+('Normal_Videos_874_x264', 'Explosion025_x264') | accuracy value is 0.9795055989858441 | roc-auc value is 0.9954686370725399
+('Normal_Videos_189_x264', 'Explosion004_x264') | accuracy value is 0.3422945853843241 | roc-auc value is 0.6872908853958881
+('Normal_Videos_873_x264', 'Explosion021_x264') | accuracy value is 0.8776616337591947 | roc-auc value is 0.7496574436885501
+('Normal_Videos_883_x264', 'Explosion013_x264') | accuracy value is 0.5699780461031834 | roc-auc value is 0.6996065395269447
+('Normal_Videos_452_x264', 'Explosion028_x264') | accuracy value is 0.4246511627906977 | roc-auc value is 0.4024809419858801
+('Normal_Videos_289_x264', 'Explosion010_x264') | accuracy value is 0.8251041046995836 | roc-auc value is 0.8801059075580553
+('Normal_Videos_704_x264', 'Explosion022_x264') | accuracy value is 0.7184723010020798 | roc-auc value is 0.9403446377698677
+('Normal_Videos_912_x264', 'Explosion016_x264') | accuracy value is 0.8415204678362573 | roc-auc value is 0.6768986765614703
+('Normal_Videos_926_x264', 'Explosion029_x264') | accuracy value is 0.5928214879961968 | roc-auc value is 0.988058890094074
+('Normal_Videos_782_x264', 'Explosion007_x264') | accuracy value is 0.3552715947604653 | roc-auc value is 0.47477305150996796
+('Normal_Videos_877_x264', 'Explosion033_x264') | accuracy value is 0.8357484257643578 | roc-auc value is 0.8925253292371471
+('Normal_Videos_024_x264', 'Explosion043_x264') | accuracy value is 0.3063961485557084 | roc-auc value is 0.8282441045014761
+('Normal_Videos_063_x264', 'Explosion011_x264') | accuracy value is 0.9050829875518672 | roc-auc value is 0.47067756878733785
+('Normal_Videos_930_x264', 'Assault010_x264') | accuracy value is 0.3744384198295895 | roc-auc value is 0.9460347522151548
+('Normal_Videos_896_x264', 'Assault006_x264') | accuracy value is 0.8876923076923077 | roc-auc value is 0.928840681277608
+('Normal_Videos_246_x264', 'Assault011_x264') | accuracy value is 0.9371138267197583 | roc-auc value is 0.8784321439837817
+('Normal_Videos_828_x264', 'Vandalism036_x264') | accuracy value is 0.9242105263157895 | roc-auc value is 0.9762574527183624
+('Normal_Videos_878_x264', 'Vandalism028_x264') | accuracy value is 0.9222689075630253 | roc-auc value is 0.9844829884258804
+('Normal_Videos_621_x264', 'Vandalism007_x264') | accuracy value is 0.9564705882352941 | roc-auc value is 0.9830032716529781
+('Normal_Videos_871_x264', 'Vandalism015_x264') | accuracy value is 0.8151478000272443 | roc-auc value is 0.9848406472041173
+('Normal_Videos_033_x264', 'Vandalism017_x264') | accuracy value is 0.8492387671741553 | roc-auc value is 0.8707462172657191
+('Normal_Videos_894_x264', 'Shoplifting017_x264') | accuracy value is 0.9093605800922874 | roc-auc value is 0.972454274260696
+('Normal_Videos_901_x264', 'Shoplifting039_x264') | accuracy value is 0.8694011071967791 | roc-auc value is 0.5282517976763161
+('Normal_Videos_100_x264', 'Shoplifting004_x264') | accuracy value is 0.5150643659271432 | roc-auc value is 0.4380923500605643
+('Normal_Videos_944_x264', 'Shoplifting049_x264') | accuracy value is 0.8758716875871687 | roc-auc value is 0.9326907372743801
+('Normal_Videos_168_x264', 'Shoplifting007_x264') | accuracy value is 0.8639475600873998 | roc-auc value is 0.7042419665984812
+('Normal_Videos_781_x264', 'Shoplifting015_x264') | accuracy value is 0.9757702182284981 | roc-auc value is 0.6461200939632837
+('Normal_Videos_880_x264', 'Shoplifting001_x264') | accuracy value is 0.9808482142857143 | roc-auc value is 0.9920457108845046
+('Normal_Videos_217_x264', 'Shoplifting037_x264') | accuracy value is 0.8911076443057723 | roc-auc value is 0.882849977057523
+('Normal_Videos_317_x264', 'Shoplifting027_x264') | accuracy value is 0.8794149125936497 | roc-auc value is 0.8566922273877744
+('Normal_Videos_702_x264', 'Shoplifting020_x264') | accuracy value is 0.8622061482820976 | roc-auc value is 0.864509420112552
+('Normal_Videos_933_x264', 'Shoplifting005_x264') | accuracy value is 0.943567798876705 | roc-auc value is 0.9629081095313322
+('Normal_Videos_911_x264', 'Shoplifting010_x264') | accuracy value is 0.8314350797266514 | roc-auc value is 0.572227878563495
+('Normal_Videos_887_x264', 'Shoplifting033_x264') | accuracy value is 0.9858164341812214 | roc-auc value is 0.03745491887854875
+('Normal_Videos_899_x264', 'Shoplifting028_x264') | accuracy value is 0.9010587805768528 | roc-auc value is 0.8383448360415533
+('Normal_Videos_019_x264', 'Shoplifting022_x264') | accuracy value is 0.9459888800635425 | roc-auc value is 0.824751815083716
+('Normal_Videos_906_x264', 'Shoplifting021_x264') | accuracy value is 0.4869914853358562 | roc-auc value is 0.9654864065416234
+('Normal_Videos_312_x264', 'Shoplifting034_x264') | accuracy value is 0.9908326388362755 | roc-auc value is 0.9082431665569205
+('Normal_Videos_934_x264', 'Shoplifting016_x264') | accuracy value is 0.8981538461538462 | roc-auc value is 0.9136898239462342
+('Normal_Videos_634_x264', 'Shoplifting044_x264') | accuracy value is 0.976976619668035 | roc-auc value is 0.8325249694618093
+('Normal_Videos_801_x264', 'Shoplifting031_x264') | accuracy value is 0.918885061071093 | roc-auc value is 0.22217109926541873
+('Normal_Videos_196_x264', 'Shoplifting029_x264') | accuracy value is 0.9227642276422764 | roc-auc value is 0.9480760167851184
+('Normal_Videos_182_x264', 'Shooting033_x264') | accuracy value is 0.8530934506859953 | roc-auc value is 0.9943224772350079
+('Normal_Videos_892_x264', 'Shooting010_x264') | accuracy value is 0.97054158169046 | roc-auc value is 0.928604457859694
+('Normal_Videos_686_x264', 'Shooting024_x264') | accuracy value is 0.8672706681766704 | roc-auc value is 0.3139272143521197
+('Normal_Videos_417_x264', 'Shooting008_x264') | accuracy value is 0.9234184239733629 | roc-auc value is 0.9899021137893491
+('Normal_Videos_717_x264', 'Shooting004_x264') | accuracy value is 0.6645901639344263 | roc-auc value is 0.9814255830103048
+('Normal_Videos_248_x264', 'Shooting028_x264') | accuracy value is 0.6917763157894737 | roc-auc value is 0.6856505672315661
+('Normal_Videos_576_x264', 'Shooting013_x264') | accuracy value is 0.9382995951417004 | roc-auc value is 0.9545673478056402
+('Normal_Videos_869_x264', 'Shooting034_x264') | accuracy value is 0.9231374606505771 | roc-auc value is 0.9750879327606014
+('Normal_Videos_908_x264', 'Shooting046_x264') | accuracy value is 0.7448552785678434 | roc-auc value is 0.9960695664310568
+('Normal_Videos_783_x264', 'Shooting043_x264') | accuracy value is 0.8965637537066109 | roc-auc value is 0.9689261543465479
+('Normal_Videos_175_x264', 'Shooting011_x264') | accuracy value is 0.7773887332710863 | roc-auc value is 0.9731618081620765
+('Normal_Videos_881_x264', 'Shooting047_x264') | accuracy value is 0.7856891082129009 | roc-auc value is 0.8134474270940206
+('Normal_Videos_925_x264', 'Shooting015_x264') | accuracy value is 0.6496133884122445 | roc-auc value is 0.7869331378410387
+('Normal_Videos_360_x264', 'Shooting037_x264') | accuracy value is 0.9450038729666925 | roc-auc value is 0.9897188669915944
+('Normal_Videos_203_x264', 'Shooting019_x264') | accuracy value is 0.6314505535747795 | roc-auc value is 0.9831438658859221
+('Normal_Videos_898_x264', 'Shooting022_x264') | accuracy value is 0.9559431756878259 | roc-auc value is 0.9802432949609695
+('Normal_Videos_884_x264', 'Shooting007_x264') | accuracy value is 0.9220915782429978 | roc-auc value is 0.9482332113112841
+('Normal_Videos_056_x264', 'Shooting002_x264') | accuracy value is 0.6262589928057554 | roc-auc value is 0.8786953558473874
+('Normal_Videos_018_x264', 'Shooting018_x264') | accuracy value is 0.7887323943661971 | roc-auc value is 0.9006066881161008
+('Normal_Videos_042_x264', 'Shooting032_x264') | accuracy value is 0.9644482022788582 | roc-auc value is 0.5327168372501918
+('Normal_Videos_924_x264', 'Shooting026_x264') | accuracy value is 0.9906948684667556 | roc-auc value is 0.9951717394790283
+('Normal_Videos_888_x264', 'Shooting021_x264') | accuracy value is 0.5886486486486486 | roc-auc value is 0.9621456329979847
+('Normal_Videos_798_x264', 'Shooting048_x264') | accuracy value is 0.9724350909298868 | roc-auc value is 0.9987543749459027
+('Normal_Videos_882_x264', 'Stealing019_x264') | accuracy value is 0.4276576302162656 | roc-auc value is 0.9480622160887815
+('Normal_Videos_606_x264', 'Stealing058_x264') | accuracy value is 0.8231609380019274 | roc-auc value is 0.8766752990237129
+('Normal_Videos_868_x264', 'Stealing062_x264') | accuracy value is 0.8256371435780974 | roc-auc value is 0.7547070879877149
+('Normal_Videos_722_x264', 'Stealing079_x264') | accuracy value is 0.909595994238288 | roc-auc value is 0.9728016384049677
+('Normal_Videos_439_x264', 'Stealing036_x264') | accuracy value is 0.9508245431585203 | roc-auc value is 0.7682498583836858
+('Normal_Videos_656_x264', 'Abuse030_x264') | accuracy value is 0.8827729842308837 | roc-auc value is 0.9771702467601634
+('Normal_Videos_641_x264', 'Abuse028_x264') | accuracy value is 0.9609094535301157 | roc-auc value is 0.9254119502888448
+('Normal_Videos_478_x264', 'RoadAccidents021_x264') | accuracy value is 0.7476916469830363 | roc-auc value is 0.8147944042574441
+('Normal_Videos_900_x264', 'RoadAccidents004_x264') | accuracy value is 0.7387533875338753 | roc-auc value is 0.3445125348189415
+('Normal_Videos_067_x264', 'RoadAccidents123_x264') | accuracy value is 0.9609638554216867 | roc-auc value is 0.7497709176913456
+('Normal_Videos_025_x264', 'RoadAccidents133_x264') | accuracy value is 0.7736883320281911 | roc-auc value is 0.7383781304190022
+('Normal_Videos_904_x264', 'RoadAccidents001_x264') | accuracy value is 0.49846153846153846 | roc-auc value is 0.8687985549249285
+('Normal_Videos_696_x264', 'RoadAccidents127_x264') | accuracy value is 0.9772837119381343 | roc-auc value is 0.6532474927102113
+('Normal_Videos_310_x264', 'RoadAccidents121_x264') | accuracy value is 0.7205510907003444 | roc-auc value is 0.7174727221361106
+('Normal_Videos_943_x264', 'RoadAccidents011_x264') | accuracy value is 0.9770440251572327 | roc-auc value is 0.20155168260825648
+('Normal_Videos_251_x264', 'RoadAccidents125_x264') | accuracy value is 0.9343434343434344 | roc-auc value is 0.5879675030618426
+('Normal_Videos_941_x264', 'RoadAccidents022_x264') | accuracy value is 0.9572524662038728 | roc-auc value is 0.9625764359440496
+('Normal_Videos_210_x264', 'RoadAccidents124_x264') | accuracy value is 0.8301230992034757 | roc-auc value is 0.9094587647219227
+('Normal_Videos_247_x264', 'RoadAccidents019_x264') | accuracy value is 0.9385891245013647 | roc-auc value is 0.9810235761589404
+('Normal_Videos_345_x264', 'RoadAccidents020_x264') | accuracy value is 0.31870902672718104 | roc-auc value is 0.9656305758493045
+('Normal_Videos_003_x264', 'RoadAccidents009_x264') | accuracy value is 0.884255546645282 | roc-auc value is 0.9368446222067646
+('Normal_Videos_915_x264', 'RoadAccidents002_x264') | accuracy value is 0.9516635279347144 | roc-auc value is 0.9403811582416641
+('Normal_Videos_935_x264', 'RoadAccidents017_x264') | accuracy value is 0.9991777379478557 | roc-auc value is 0.9996792257980845
+('Normal_Videos_150_x264', 'RoadAccidents016_x264') | accuracy value is 0.9375204448806019 | roc-auc value is 0.75015345100346
+('Normal_Videos_070_x264', 'RoadAccidents132_x264') | accuracy value is 0.7238361918095905 | roc-auc value is 0.5187906853094598
+('Normal_Videos_927_x264', 'RoadAccidents131_x264') | accuracy value is 0.9281190626979101 | roc-auc value is 0.998795767453432
+('Normal_Videos_885_x264', 'RoadAccidents122_x264') | accuracy value is 0.8174532502226179 | roc-auc value is 0.6102080824920503
+('Normal_Videos_937_x264', 'RoadAccidents010_x264') | accuracy value is 0.9863013698630136 | roc-auc value is 0.9911924119241192
+('Normal_Videos_603_x264', 'RoadAccidents128_x264') | accuracy value is 0.9419875130072841 | roc-auc value is 0.9613877204287062
+('Normal_Videos_923_x264', 'RoadAccidents012_x264') | accuracy value is 0.9933130048681325 | roc-auc value is 0.8696538997917297
+('Normal_Videos_928_x264', 'Fighting033_x264') | accuracy value is 0.6044444444444445 | roc-auc value is 0.9448819146116205
+('Normal_Videos_867_x264', 'Fighting047_x264') | accuracy value is 0.7130776794493608 | roc-auc value is 0.6579248435334929
+('Normal_Videos_890_x264', 'Fighting003_x264') | accuracy value is 0.8261259913212629 | roc-auc value is 0.9550438121978281
+('Normal_Videos_866_x264', 'Fighting042_x264') | accuracy value is 0.8466686063427408 | roc-auc value is 0.8908147798569955
+('Normal_Videos_401_x264', 'Fighting018_x264') | accuracy value is 0.8637719588995691 | roc-auc value is 0.9614390323018993
+('Normal_Videos_745_x264', 'Robbery137_x264') | accuracy value is 0.3629451780712285 | roc-auc value is 0.9001683425674499
+('Normal_Videos_051_x264', 'Robbery102_x264') | accuracy value is 0.9276331502268927 | roc-auc value is 0.9763223204939341
+('Normal_Videos_879_x264', 'Robbery048_x264') | accuracy value is 0.9009397024275646 | roc-auc value is 0.9585849347064976
+('Normal_Videos_938_x264', 'Robbery106_x264') | accuracy value is 0.9507135745104547 | roc-auc value is 0.9593235876585888
+('Normal_Videos_932_x264', 'Robbery050_x264') | accuracy value is 0.7510754229997132 | roc-auc value is 0.9239111419103572
+('Normal_Videos_889_x264', 'Burglary024_x264') | accuracy value is 0.815561224489796 | roc-auc value is 0.9973944410808184
+('Normal_Videos_910_x264', 'Burglary032_x264') | accuracy value is 0.27158833954653794 | roc-auc value is 0.64252087879871
+('Normal_Videos_006_x264', 'Burglary021_x264') | accuracy value is 0.7747611865258924 | roc-auc value is 0.8179061812681695
+('Normal_Videos_895_x264', 'Burglary076_x264') | accuracy value is 0.8180507677843936 | roc-auc value is 0.22836513957421034
+('Normal_Videos_010_x264', 'Burglary033_x264') | accuracy value is 0.8846153846153846 | roc-auc value is 0.8936671525305562
+('Normal_Videos_050_x264', 'Burglary079_x264') | accuracy value is 0.741405552931297 | roc-auc value is 0.9951919593878595
+('Normal_Videos_015_x264', 'Burglary035_x264') | accuracy value is 0.8790820829655781 | roc-auc value is 0.9258982972697032
+('Normal_Videos_831_x264', 'Burglary092_x264') | accuracy value is 0.8316279069767442 | roc-auc value is 0.7259847726401918
+('Normal_Videos_907_x264', 'Burglary061_x264') | accuracy value is 0.8718189403420943 | roc-auc value is 0.9600958908973508
+('Normal_Videos_929_x264', 'Burglary005_x264') | accuracy value is 0.9802380677221773 | roc-auc value is 0.9863981177543453
+('Normal_Videos_059_x264', 'Burglary018_x264') | accuracy value is 0.888251181634031 | roc-auc value is 0.814726460365087
+('Normal_Videos_905_x264', 'Burglary017_x264') | accuracy value is 0.7494711393170143 | roc-auc value is 0.8234267524620663
+('Normal_Videos_914_x264', 'Burglary037_x264') | accuracy value is 0.8142857142857143 | roc-auc value is 0.9302683462458466
+('Normal_Videos_902_x264', 'Arson016_x264') | accuracy value is 0.7147798742138365 | roc-auc value is 0.7599077215175877
+('Normal_Videos_870_x264', 'Arson009_x264') | accuracy value is 0.5557206537890045 | roc-auc value is 0.8386666666666667
+('Normal_Videos_129_x264', 'Arson022_x264') | accuracy value is 0.7078713360412778 | roc-auc value is 0.4602144456440279
+('Normal_Videos_780_x264', 'Arson010_x264') | accuracy value is 0.6691758347809303 | roc-auc value is 0.7995457018010533
+('Normal_Videos_224_x264', 'Arson018_x264') | accuracy value is 0.9009228402973597 | roc-auc value is 0.9431649305815316
+('Normal_Videos_909_x264', 'Arson011_x264') | accuracy value is 0.6504445484323819 | roc-auc value is 0.7442662702381667
+('Normal_Videos_891_x264', 'Arson041_x264') | accuracy value is 0.5734341252699784 | roc-auc value is 0.6728995605173264
+('Normal_Videos_913_x264', 'Arson007_x264') | accuracy value is 0.5553774409793063 | roc-auc value is 0.8007459375343259
+('Normal_Videos_931_x264', 'Arson035_x264') | accuracy value is 0.8785513581017795 | roc-auc value is 0.9487997737841469
+The normal videos  | accuracy value is 0.8050319222555337 | roc_auc value is 0.8273750495655524
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.33333333333333337
+The normal videos  | accuracy value is 0.3333333333333332
+The normal videos  | accuracy value is 0.3333333333333332
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.0
+The normal videos  | accuracy value is 0.25
+The normal videos  | accuracy value is 0.25
+The normal videos  | accuracy value is 0.25
+The normal videos  | accuracy value is 0.25
+The normal videos  | accuracy value is 0.3333333333333332
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.608104064121866
+The normal videos  | accuracy value is 0.4382438703510685
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6129665841411197
+The normal videos  | accuracy value is 0.6231927948594614
+The normal videos  | accuracy value is 0.3183580790089282
+The normal videos  | accuracy value is 0.8676147618284579
