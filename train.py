@@ -27,45 +27,12 @@ train_dataset = data_loader(is_train=1)
 train_loader = DataLoader(
      train_dataset, batch_size=16, shuffle=True)
 
-# normal_train_dataset = data_loader(is_train=1)
-# normal_test_dataset = data_loader(is_train=0)
 
-# Robbery_train_dataset = data_loader(is_train=1,Aclass="Robbery")
-# Robbery_test_dataset = data_loader(is_train=0,Aclass="Robbery")
-
-# Stealing_train_dataset = data_loader(is_train=1,Aclass="Stealing")
-# Stealing_test_dataset = data_loader(is_train=0,Aclass="Stealing")
-
-# # Roadaccident_train_dataset = data_loader(is_train=1,Aclass="RoadAccidents")
-
-# normal_train_loader = DataLoader(
-#     normal_train_dataset, batch_size=5, shuffle=True)
-# normal_test_loader = DataLoader(normal_test_dataset, batch_size=1,
-#                                 shuffle=True)
-
-# Robbery_train_loader = DataLoader(
-#     Robbery_train_dataset, batch_size=5, shuffle=True)
-# Robbery_test_loader = DataLoader(
-#     Robbery_test_dataset, batch_size=1, shuffle=True)
-
-# Stealing_train_loader = DataLoader(
-#     Stealing_train_dataset, batch_size=5, shuffle=True)
-# Stealing_test_loader = DataLoader(
-#     Stealing_test_dataset, batch_size=1, shuffle=True)
-
-
-# Roadaccident_train_loader = DataLoader(
-    # Roadaccident_train_dataset, batch_size=10, shuffle=True)
 
 device = 'cpu'
 model_lnn = LNN(input_dim=2048, drop_p=0.6).to(device)
-# model_dense = dense(input_dim=2048, drop_p=0.6).to(device)
 optimizer_1 = torch.optim.Adagrad(model_lnn.parameters(), lr= 0.01, weight_decay=0.0012)
-# optimizer_1 = torch.optim.Adam(model_lnn.parameters(), lr=0.05, weight_decay=0.000125)
-# optimizer_2 = torch.optim.Adagrad(
-#     model_dense.parameters(), lr=0.001, weight_decay=0.000125)
 scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer_1, milestones=[20,40,60])
-# criterion = MIL
 criterion=nn.CrossEntropyLoss()
 
 
